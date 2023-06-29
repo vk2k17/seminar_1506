@@ -1,1 +1,1 @@
-﻿# Seminar_1506
+﻿# seminar_1506
